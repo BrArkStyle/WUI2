@@ -22,16 +22,17 @@
                     "text1": "1.1 - A administração restringirá o acesso dos jogadores que apresentarem comportamento inadequado ou linguagem ofensiva.\n\n1.2 - Proibido comportar-se ou apresentar-se como parte da equipe do servidor, essa atitude está passível de banimento, seja no jogo, seja no discord.\n\n1.3 - Proibido divulgações de qualquer conteúdo ou autopromoção de qualquer natureza.\n\n1.4 - O uso do Discord faz-se obrigatório a todo e qualquer jogador, haja vista que a comunicação se dá por meio dessa.\n\n1.5 - O desconhecimento das regras não os tornam imunes a elas.\n\n1.6 - A administração não detém responsabilidade por qualquer prejuízos de qualquer espécie decorrente de bugs do jogo esse cenário faz parte do jogo em geral.\n\n1.7 - A administração pode caso necessário, alterar as regras a qualquer momento ou até mesmo fazer novas sem aviso prévio.\n\n\n<RichColor Color=\"1,0.65,0,1\">Todas as regras completas estão disponíveis no discord</>",
                     "text2": "<RichColor Color=\"1,0,0,1\">/suicide</>\nMata você instantaneamente – Não pode ser usado se você sofreu dano recentemente (últimos 30 segundos)\n\n<RichColor Color=\"1,0,0,1\">/unstuck</>\nTeletransporta você para uma distância próxima de onde você está se estiver sentado em um Dino, teletransporta este Dino com você.\n\n<RichColor Color=\"1,0,0,1\">/getuniqueID</>\nFornece o UniqueID da sua conta, que substitui o SteamID / EpicID / PSN-ID e assim por diante no ASA\n\n<RichColor Color=\"1,0,0,1\">/discord</>\nAbre o link de convite do Discord em seu navegador\n\n<RichColor Color=\"1,0,0,1\">/ccc</>\nCopia um comando CCC para sua área de transferência, entregue-o a um membro da equipe para que ele possa aparecer diretamente no local onde o comando foi usado!\n\n<RichColor Color=\"1,0,0,1\">/unstuckcorpse</>\nAs tentativas de soltar seu cadáver devem estar próximas (~2 fundações)\n\n<RichColor Color=\"1,0,0,1\">/report</>\nIrá postar um relatório com coordenadas de teletransporte no Discord e qualquer texto após /report será usado como comentário (EX: /report mensagem)"
                 }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "Server",
-                    "title1": "Configuração",
-                    "title2": "Mods",
-                    "text1": "- EXPERIÊNCIA ➥ 10x\n\n- DOMESTICAÇÃO ➥ 10x\n\n- COLHEITA ➥ 10x\n\n- CRESCIMENTO ➥ 15x\n\n- IMPRINT ➥ 100%",
-                    "text2": "- Configurable Stack Mod\n\n- Kavan's Shop & Missions\n\n-Shiny! Dinos Ascended\n\n- Better Chat\n\n- TeleportersASA\n\n- Pelayori's Cryo Storage (Console Ready!)\n\n- Super Spyglass Plus\n\n- Moros Indomitable Duo\n\n\n<RichColor Color=\"1,0.65,0,1\">Obs:Mods podem ser trocados removidos ou adicionados outros conforme vão lançando mais e não haverá nenhuma compensação a jogadores por prejuízos de qualquer natureza.</>"
-                }
+				
+			},
+			{
+				"tab2": {
+					"layout": 2,
+					"buttontext": "Server",
+					"title1": "Configuração",
+					"title2": "Mods",
+					"text1": "- EXPERIÊNCIA ➥ 10x\n\n- DOMESTICAÇÃO ➥ 10x\n\n- COLHEITA ➥ 10x\n\n- CRESCIMENTO ➥ 15x\n\n- IMPRINT ➥ 100%",
+					"text2": "- Configurable Stack Mod\n\n- Kavan's Shop & Missions\n\n-Shiny! Dinos Ascended\n\n- Better Chat\n\n- TeleportersASA\n\n- Pelayori's Cryo Storage (Console Ready!)\n\n- Super Spyglass Plus\n\n- Moros Indomitable Duo\n\n- WBUI2\n\n\n<RichColor Color=\"1,0.65,0,1\">Obs:Mods podem ser trocados removidos ou adicionados outros conforme vão lançando mais e não haverá nenhuma compensação a jogadores por prejuízos de qualquer natureza.</>"
+				}
             }
         ],
         "links": [
