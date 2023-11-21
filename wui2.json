@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 1,
+        "HideIcon": true,
+        "HideIconAfter": 10,
+        "IconURL": "",
+        "DisableIconText": true,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 24
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Inicio",
+          "title1": "Regras",
+          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.com/invite/K7NyrTV"
+        }
+      }
+    ]
+  }
+}
