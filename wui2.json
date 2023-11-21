@@ -1,34 +1,34 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 1,
-        "HideIcon": true,
-        "HideIconAfter": 10,
-        "IconURL": "",
-        "DisableIconText": true,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 24
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 2,
-          "buttontext": "Inicio",
-          "title1": "Regras",
-          "text1": "A1.1 - A administração restringirá o acesso dos jogadores que apresentarem comportamento inadequado ou linguagem ofensiva.\nA1.2 - Proibido comportar-se ou apresentar-se como parte da equipe do servidor, essa atitude está passível de banimento, seja no jogo, seja no discord.\nA1.3 - Proibido divulgações de qualquer conteúdo ou autopromoção de qualquer natureza.\nA1.4 - O uso do Discord faz-se obrigatório a todo e qualquer jogador, haja vista que a comunicação se dá por meio dessa.\nA1.5 - O desconhecimento das regras não os tornam imunes a elas.\nA1.6 - A administração não detém responsabilidade por qualquer prejuízos de qualquer espécie decorrente de bugs do jogo esse cenário faz parte do jogo em geral.\nA1.7 - A administração pode caso necessário, alterar as regras a qualquer momento ou até mesmo fazer novas sem aviso prévio.",
-        }
-      },
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.gg/nPUqEJd9jJ"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 1,
+            "HideIcon": true,
+            "HideIconAfter": 10,
+            "IconURL": "",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 24
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 2,
+                    "buttontext": "Inicio",
+                    "title1": "Regras",
+                    "text1": "A1.1 - A administração restringirá o acesso dos jogadores que apresentarem comportamento inadequado ou linguagem ofensiva.\nA1.2 - Proibido comportar-se ou apresentar-se como parte da equipe do servidor, essa atitude está passível de banimento, seja no jogo, seja no discord.\nA1.3 - Proibido divulgações de qualquer conteúdo ou autopromoção de qualquer natureza.\nA1.4 - O uso do Discord faz-se obrigatório a todo e qualquer jogador, haja vista que a comunicação se dá por meio dessa.\nA1.5 - O desconhecimento das regras não os tornam imunes a elas.\nA1.6 - A administração não detém responsabilidade por qualquer prejuízos de qualquer espécie decorrente de bugs do jogo esse cenário faz parte do jogo em geral.\nA1.7 - A administração pode caso necessário, alterar as regras a qualquer momento ou até mesmo fazer novas sem aviso prévio."
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/nPUqEJd9jJ"
+                }
+            }
+        ]
+    }
 }
